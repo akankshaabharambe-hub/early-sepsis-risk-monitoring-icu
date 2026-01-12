@@ -95,7 +95,7 @@ tests/                 Unit tests for pipeline correctness
 Each layer is intentionally isolated to support testing, iteration, and
 responsible system evolution.
 
-⸻
+---
 
 Example Pipeline Flow
 
@@ -117,7 +117,7 @@ risk_scores.json
 These artifacts demonstrate how data moves through the system without exposing
 real patient records.
 
-⸻
+---
 
 Local Execution
 This repository supports local execution using anonymized example inputs.
