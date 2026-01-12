@@ -1,1 +1,23 @@
-
+{
+  "patient_id": "ICU_10293",
+  "admission_id": "ADM_55821",
+  "timestamp": "2025-02-14T08:30:00Z",
+  "demographics": {
+    "age": 67,
+    "sex": "F"
+  },
+  "vitals": {
+    "heart_rate": 112,
+    "respiratory_rate": 24,
+    "systolic_bp": 92,
+    "diastolic_bp": 58,
+    "temperature_celsius": 38.9,
+    "oxygen_saturation": 91
+  },
+  "labs": {
+    "lactate_mmol_l": 3.2,
+    "wbc_count": 14.8,
+    "creatinine_mg_dl": 1.9,
+    "platelets": 110
+  }
+}
