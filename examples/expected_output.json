@@ -1,1 +1,18 @@
-
+{
+  "patient_id": "ICU_10293",
+  "admission_id": "ADM_55821",
+  "timestamp": "2025-02-14T08:30:00Z",
+  "sepsis_risk_score": 0.87,
+  "risk_category": "HIGH",
+  "key_contributing_features": [
+    "elevated_lactate",
+    "hypotension",
+    "tachycardia",
+    "fever"
+  ],
+  "model_metadata": {
+    "model_name": "early_sepsis_risk_model_v1",
+    "auc_roc": 0.87,
+    "threshold": 0.75
+  }
+}
